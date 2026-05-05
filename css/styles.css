@@ -1,14 +1,14 @@
 /* =========================================================
-   peinturelongueuil.com â€” Design System
+   peinturelongueuil.com — Design System
    Palette: Anthracite / Neige / Or Mat
-   Vibe: PrÃ©cision millimÃ©trique, finition de magazine
+   Vibe: Précision millimétrique, finition de magazine
    ========================================================= */
 
 :root {
   --c-ink: #14141A;            /* Anthracite quasi-noir */
   --c-ink-soft: #2A2A30;
   --c-snow: #FAFAF7;           /* Blanc neige (chaud) */
-  --c-paper: #F1EEE7;          /* CrÃ¨me lÃ©ger */
+  --c-paper: #F1EEE7;          /* Crème léger */
   --c-line: #E2DFD6;
   --c-mute: #6B6B72;
   --c-gold: #C9A227;           /* Or mat / Moutarde */
@@ -211,7 +211,7 @@ p { margin: 0; }
   max-width: 320px;
   object-fit: contain;
 }
-/* Flush brand to the very left edge of the viewport â€” overrides container gutter */
+/* Flush brand to the very left edge of the viewport — overrides container gutter */
 .site-header .nav .brand {
   margin-left: calc(-1 * var(--gutter));
   padding-left: 0;
@@ -934,7 +934,7 @@ p { margin: 0; }
   html { scroll-behavior: auto; }
 }
 
-/* ---------- Gallery (RÃ©alisations) ---------- */
+/* ---------- Gallery (Réalisations) ---------- */
 .gallery {
   display: grid;
   gap: 1rem;

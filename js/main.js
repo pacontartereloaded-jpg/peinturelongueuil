@@ -1,4 +1,4 @@
-// peinturelongueuil.com â€” interactions
+// peinturelongueuil.com — interactions
 (function () {
   'use strict';
 
