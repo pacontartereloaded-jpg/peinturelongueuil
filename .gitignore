@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
+
+# Claude Code workspace (no es parte del sitio)
+.claude/
+
+# Logs / temporales
+*.log
+npm-debug.log*
+.cache/
