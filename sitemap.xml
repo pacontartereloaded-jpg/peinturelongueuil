@@ -42,56 +42,56 @@
   </url>
 
   <!-- Services -->
-  <url><loc>https://peinturelongueuil.com/services/peinture-residentielle.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/en/services/peinture-residentielle.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/es/services/peinture-residentielle.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/pr/services/peinture-residentielle.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/services/peinture-residentielle</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/en/services/peinture-residentielle</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/es/services/peinture-residentielle</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/pr/services/peinture-residentielle</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
 
-  <url><loc>https://peinturelongueuil.com/services/peinture-commerciale.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/en/services/peinture-commerciale.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/es/services/peinture-commerciale.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/pr/services/peinture-commerciale.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/services/peinture-commerciale</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/en/services/peinture-commerciale</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/es/services/peinture-commerciale</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/pr/services/peinture-commerciale</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
 
-  <url><loc>https://peinturelongueuil.com/services/tirage-de-joints.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/en/services/tirage-de-joints.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/es/services/tirage-de-joints.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/pr/services/tirage-de-joints.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/services/tirage-de-joints</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/en/services/tirage-de-joints</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/es/services/tirage-de-joints</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/pr/services/tirage-de-joints</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
 
-  <url><loc>https://peinturelongueuil.com/services/peinture-de-brique.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/en/services/peinture-de-brique.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/es/services/peinture-de-brique.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/pr/services/peinture-de-brique.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/services/peinture-de-brique</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/en/services/peinture-de-brique</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/es/services/peinture-de-brique</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/pr/services/peinture-de-brique</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
 
   <!-- Sectors -->
-  <url><loc>https://peinturelongueuil.com/secteurs/vieux-longueuil.html</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/en/secteurs/vieux-longueuil.html</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/es/secteurs/vieux-longueuil.html</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/pr/secteurs/vieux-longueuil.html</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/secteurs/vieux-longueuil</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/en/secteurs/vieux-longueuil</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/es/secteurs/vieux-longueuil</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/pr/secteurs/vieux-longueuil</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
 
-  <url><loc>https://peinturelongueuil.com/secteurs/saint-hubert.html</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/en/secteurs/saint-hubert.html</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/es/secteurs/saint-hubert.html</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/pr/secteurs/saint-hubert.html</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/secteurs/saint-hubert</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/en/secteurs/saint-hubert</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/es/secteurs/saint-hubert</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/pr/secteurs/saint-hubert</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
 
-  <url><loc>https://peinturelongueuil.com/secteurs/greenfield-park.html</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/en/secteurs/greenfield-park.html</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/es/secteurs/greenfield-park.html</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/pr/secteurs/greenfield-park.html</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/secteurs/greenfield-park</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/en/secteurs/greenfield-park</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/es/secteurs/greenfield-park</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/pr/secteurs/greenfield-park</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
 
   <!-- Other pages -->
-  <url><loc>https://peinturelongueuil.com/realisations.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/en/realisations.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/es/realisations.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/pr/realisations.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/realisations</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/en/realisations</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/es/realisations</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/pr/realisations</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
 
-  <url><loc>https://peinturelongueuil.com/a-propos.html</loc><priority>0.6</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/en/a-propos.html</loc><priority>0.6</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/es/a-propos.html</loc><priority>0.6</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/pr/a-propos.html</loc><priority>0.6</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/a-propos</loc><priority>0.6</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/en/a-propos</loc><priority>0.6</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/es/a-propos</loc><priority>0.6</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/pr/a-propos</loc><priority>0.6</priority><changefreq>yearly</changefreq></url>
 
-  <url><loc>https://peinturelongueuil.com/contact.html</loc><priority>0.9</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/en/contact.html</loc><priority>0.9</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/es/contact.html</loc><priority>0.9</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://peinturelongueuil.com/pr/contact.html</loc><priority>0.9</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/contact</loc><priority>0.9</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/en/contact</loc><priority>0.9</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/es/contact</loc><priority>0.9</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://peinturelongueuil.com/pr/contact</loc><priority>0.9</priority><changefreq>yearly</changefreq></url>
 
 </urlset>
